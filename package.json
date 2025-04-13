@@ -1,0 +1,26 @@
+{
+  "name": "migaku-to-anki-exporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minoqi/Migaku-to-Anki-Exporter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minoqi/Migaku-to-Anki-Exporter/issues"
+  },
+  "homepage": "https://github.com/Minoqi/Migaku-to-Anki-Exporter#readme",
+  "dependencies": {
+    "anki-apkg-export": "^4.0.3",
+    "axios": "^1.8.4",
+    "pako": "^2.1.0",
+    "sql.js": "^1.13.0"
+  }
+}
